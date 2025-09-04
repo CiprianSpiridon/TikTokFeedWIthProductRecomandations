@@ -1,12 +1,14 @@
 'use client';
 
 import { useState, useEffect, useRef, useCallback } from 'react';
+import { useRouter } from 'next/navigation';
 import { motion } from 'framer-motion';
 import { X, Search } from 'lucide-react';
 import { Post, FeedResponse } from '@/types/feed';
 import PostCard from './PostCard';
 
 export default function FeedContainer() {
+  const router = useRouter();
   const [posts, setPosts] = useState<Post[]>([]);
   const [loading, setLoading] = useState(true);
   const [hasMore, setHasMore] = useState(true);
@@ -127,16 +129,19 @@ export default function FeedContainer() {
     }
   };
 
-  const handleViewAll = async (category: string) => {
+  const handleViewAll = async (postId: string) => {
     try {
+      // Navigate to products page
+      router.push(`/products/${postId}`);
+      
+      // Optional: Track analytics
       await fetch('/api/feed', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ category, action: 'view_all' }),
+        body: JSON.stringify({ postId, action: 'view_all' }),
       });
       
-      console.log('View all clicked for category:', category);
-      // Navigate to category page
+      console.log('View all clicked for post:', postId);
     } catch (err) {
       console.error('Error tracking view all:', err);
     }

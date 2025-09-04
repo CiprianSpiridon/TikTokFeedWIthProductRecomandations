@@ -11,7 +11,7 @@ interface PostCardProps {
   isActive: boolean;
   onAddToCart: (productId: string) => void;
   onProductClick: (productId: string) => void;
-  onViewAll: (category: string) => void;
+  onViewAll: (postId: string) => void;
 }
 
 export default function PostCard({ 
@@ -82,7 +82,7 @@ export default function PostCard({
 
 
   const handleViewAll = () => {
-    onViewAll(post.category);
+    onViewAll(post.id);
   };
 
   return (
