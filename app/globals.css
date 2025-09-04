@@ -6,6 +6,14 @@
     scroll-snap-type: y mandatory;
   }
   
+  .snap-x {
+    scroll-snap-type: x mandatory;
+  }
+  
+  .snap-mandatory {
+    scroll-snap-type: x mandatory;
+  }
+  
   .snap-start {
     scroll-snap-align: start;
   }

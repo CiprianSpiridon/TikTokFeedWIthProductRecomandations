@@ -37,8 +37,8 @@ export default function ProductSection({
         </button>
       </div>
       
-      {/* Products Horizontal Scroll - Show 4 products */}
-      <div className="flex gap-3 overflow-x-auto scrollbar-hide pb-2">
+      {/* Products Horizontal Scroll - Show 7 products */}
+      <div className="flex gap-3 overflow-x-auto scrollbar-hide pb-2 snap-x snap-mandatory">
         <style jsx>{`
           .scrollbar-hide {
             -ms-overflow-style: none;
@@ -48,13 +48,14 @@ export default function ProductSection({
             display: none;
           }
         `}</style>
-        {products.slice(0, 4).map((product) => (
-          <ProductCard
-            key={product.id}
-            product={product}
-            onAddToCart={onAddToCart}
-            onProductClick={onProductClick}
-          />
+        {products.slice(0, 7).map((product) => (
+          <div key={product.id} className="snap-start">
+            <ProductCard
+              product={product}
+              onAddToCart={onAddToCart}
+              onProductClick={onProductClick}
+            />
+          </div>
         ))}
       </div>
     </div>
