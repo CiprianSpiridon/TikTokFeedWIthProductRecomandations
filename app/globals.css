@@ -11,11 +11,19 @@
   }
   
   .snap-mandatory {
-    scroll-snap-type: x mandatory;
+    scroll-snap-type: y mandatory;
   }
   
   .snap-start {
     scroll-snap-align: start;
+  }
+
+  .snap-center {
+    scroll-snap-align: center;
+  }
+
+  .snap-always {
+    scroll-snap-stop: always;
   }
   
   .scrollbar-hide {

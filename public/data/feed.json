@@ -698,6 +698,475 @@
           "inStock": true
         }
       ]
+    },
+    {
+      "id": "7",
+      "type": "image",
+      "mediaUrl": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?w=400&h=800&fit=crop&q=80",
+      "author": {
+        "id": "tech_lover",
+        "username": "techlover",
+        "displayName": "Tech Lover",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&q=80",
+        "verified": true
+      },
+      "category": "tech",
+      "promotionalText": "Your tech upgrade is minutes away",
+      "relatedProducts": [
+        {
+          "id": "prod61",
+          "name": "Wireless Charging Pad",
+          "description": "Fast wireless charging station",
+          "originalPrice": 59.99,
+          "salePrice": 47.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod62",
+          "name": "Bluetooth Headphones Pro",
+          "description": "Noise-canceling wireless headphones",
+          "originalPrice": 199.99,
+          "salePrice": 159.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod63",
+          "name": "USB-C Hub 7-in-1",
+          "description": "Multi-port USB-C adapter",
+          "originalPrice": 79.99,
+          "salePrice": 63.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod64",
+          "name": "Portable Power Bank",
+          "description": "20000mAh fast charging power bank",
+          "originalPrice": 49.99,
+          "salePrice": 39.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1609592900-00b8e6088c6d?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod65",
+          "name": "Smartphone Car Mount",
+          "description": "Magnetic phone holder for car",
+          "originalPrice": 29.99,
+          "salePrice": 23.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod66",
+          "name": "LED Desk Lamp Smart",
+          "description": "Voice control smart desk lamp",
+          "originalPrice": 89.99,
+          "salePrice": 71.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod67",
+          "name": "Webcam HD 1080p",
+          "description": "Professional streaming webcam",
+          "originalPrice": 99.99,
+          "salePrice": 79.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod68",
+          "name": "Gaming Mouse RGB",
+          "description": "High-precision gaming mouse",
+          "originalPrice": 69.99,
+          "salePrice": 55.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod69",
+          "name": "Mechanical Keyboard",
+          "description": "RGB backlit mechanical keyboard",
+          "originalPrice": 149.99,
+          "salePrice": 119.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod70",
+          "name": "Bluetooth Speaker Mini",
+          "description": "Portable wireless speaker",
+          "originalPrice": 39.99,
+          "salePrice": 31.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        }
+      ]
+    }
+    ,
+    {
+      "id": "8",
+      "type": "video",
+      "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&h=800&fit=crop&q=80",
+      "author": {
+        "id": "baby_care",
+        "username": "babycare",
+        "displayName": "Baby Care",
+        "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&q=80",
+        "verified": true
+      },
+      "category": "baby",
+      "promotionalText": "Your baby's comfort is minutes away",
+      "relatedProducts": [
+        {
+          "id": "prod71",
+          "name": "Organic Baby Lotion",
+          "description": "Natural moisturizing baby lotion",
+          "originalPrice": 24.99,
+          "salePrice": 19.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod72",
+          "name": "Baby Monitor HD",
+          "description": "WiFi baby monitor with app",
+          "originalPrice": 149.99,
+          "salePrice": 119.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod73",
+          "name": "Diaper Bag Designer",
+          "description": "Stylish diaper backpack",
+          "originalPrice": 89.99,
+          "salePrice": 71.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod74",
+          "name": "Baby Car Seat Safety",
+          "description": "5-point harness car seat",
+          "originalPrice": 299.99,
+          "salePrice": 239.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod75",
+          "name": "Baby Stroller Travel",
+          "description": "Lightweight travel stroller",
+          "originalPrice": 199.99,
+          "salePrice": 159.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod76",
+          "name": "Baby Bottles Glass Set",
+          "description": "BPA-free glass baby bottles",
+          "originalPrice": 59.99,
+          "salePrice": 47.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod77",
+          "name": "Baby Clothes Organic Set",
+          "description": "Organic cotton onesies pack",
+          "originalPrice": 49.99,
+          "salePrice": 39.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod78",
+          "name": "Baby Swing Musical",
+          "description": "Soothing baby swing with music",
+          "originalPrice": 179.99,
+          "salePrice": 143.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod79",
+          "name": "Baby Bathtub Safety",
+          "description": "Anti-slip baby bathtub",
+          "originalPrice": 39.99,
+          "salePrice": 31.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod80",
+          "name": "Baby Crib Mobile Musical",
+          "description": "Rotating musical crib mobile",
+          "originalPrice": 69.99,
+          "salePrice": 55.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        }
+      ]
+    }
+    ,
+    {
+      "id": "9",
+      "type": "image",
+      "mediaUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=800&fit=crop&q=80",
+      "author": {
+        "id": "book_lover",
+        "username": "booklover",
+        "displayName": "Book Lover",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&q=80",
+        "verified": false
+      },
+      "category": "books",
+      "promotionalText": "Your next great read is minutes away",
+      "relatedProducts": [
+        {
+          "id": "prod81",
+          "name": "Bestseller Fiction Collection",
+          "description": "Top 5 bestselling novels",
+          "originalPrice": 89.99,
+          "salePrice": 71.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod82",
+          "name": "Self-Help Motivation Bundle",
+          "description": "3 life-changing self-help books",
+          "originalPrice": 59.99,
+          "salePrice": 47.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod83",
+          "name": "Cookbook Healthy Recipes",
+          "description": "150 healthy recipe cookbook",
+          "originalPrice": 34.99,
+          "salePrice": 27.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod84",
+          "name": "Biography Collection Famous",
+          "description": "Inspiring biographies set",
+          "originalPrice": 79.99,
+          "salePrice": 63.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod85",
+          "name": "Kids Educational Books",
+          "description": "Learning books for children",
+          "originalPrice": 49.99,
+          "salePrice": 39.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod86",
+          "name": "Science & Technology Books",
+          "description": "Latest science discoveries",
+          "originalPrice": 69.99,
+          "salePrice": 55.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod87",
+          "name": "Mystery Thriller Series",
+          "description": "Complete mystery book series",
+          "originalPrice": 99.99,
+          "salePrice": 79.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod88",
+          "name": "Art & Design Coffee Table Books",
+          "description": "Beautiful visual art books",
+          "originalPrice": 129.99,
+          "salePrice": 103.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod89",
+          "name": "Business & Finance Books",
+          "description": "Investment and business strategy",
+          "originalPrice": 89.99,
+          "salePrice": 71.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod90",
+          "name": "Philosophy & History Bundle",
+          "description": "Classic philosophy and history",
+          "originalPrice": 119.99,
+          "salePrice": 95.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        }
+      ]
+    }
+    ,
+    {
+      "id": "10",
+      "type": "video",
+      "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=400&h=800&fit=crop&q=80",
+      "author": {
+        "id": "car_enthusiast",
+        "username": "carenthusiast",
+        "displayName": "Car Enthusiast",
+        "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b17c?w=100&h=100&fit=crop&q=80",
+        "verified": true
+      },
+      "category": "automotive",
+      "promotionalText": "Your car upgrade is minutes away",
+      "relatedProducts": [
+        {
+          "id": "prod91",
+          "name": "Car Dash Cam 4K",
+          "description": "Ultra HD dashboard camera",
+          "originalPrice": 199.99,
+          "salePrice": 159.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod92",
+          "name": "Car Air Purifier",
+          "description": "HEPA filter car air purifier",
+          "originalPrice": 89.99,
+          "salePrice": 71.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod93",
+          "name": "Seat Covers Luxury Leather",
+          "description": "Premium leather seat covers",
+          "originalPrice": 149.99,
+          "salePrice": 119.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod94",
+          "name": "Car Vacuum Cleaner",
+          "description": "Portable car vacuum cleaner",
+          "originalPrice": 59.99,
+          "salePrice": 47.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod95",
+          "name": "Car Phone Mount",
+          "description": "Magnetic dashboard phone holder",
+          "originalPrice": 29.99,
+          "salePrice": 23.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod96",
+          "name": "Car Organizer Trunk",
+          "description": "Collapsible trunk organizer",
+          "originalPrice": 39.99,
+          "salePrice": 31.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod97",
+          "name": "Tire Pressure Gauge Digital",
+          "description": "Digital tire pressure checker",
+          "originalPrice": 24.99,
+          "salePrice": 19.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod98",
+          "name": "Car Emergency Kit",
+          "description": "Complete roadside emergency kit",
+          "originalPrice": 79.99,
+          "salePrice": 63.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod99",
+          "name": "Car Wax Polish Premium",
+          "description": "Professional car wax polish",
+          "originalPrice": 34.99,
+          "salePrice": 27.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod100",
+          "name": "Bluetooth Car Adapter",
+          "description": "Wireless car stereo adapter",
+          "originalPrice": 49.99,
+          "salePrice": 39.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        }
+      ]
     }
   ]
 }

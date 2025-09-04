@@ -215,7 +215,7 @@ export default function FeedContainer() {
           <div
             key={post.id}
             data-index={index}
-            className="post-card"
+            className="post-card h-screen w-full snap-center"
           >
             <PostCard
               post={post}
