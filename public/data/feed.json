@@ -1,0 +1,703 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "type": "image",
+      "mediaUrl": "https://images.unsplash.com/photo-1596755389378-c31d21fd1273?w=400&h=800&fit=crop&q=80",
+      "author": {
+        "id": "mumzworld_minutes",
+        "username": "mumzworld",
+        "displayName": "mumzworld MINUTES",
+        "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b1-c8b0-4890-9a2a-b6e8aacc2b9?w=100&h=100&fit=crop&q=80",
+        "verified": true
+      },
+      "category": "skincare",
+      "promotionalText": "Your hair glow-up is minutes away",
+      "relatedProducts": [
+        {
+          "id": "prod1",
+          "name": "KERASTASE Gloss Absolu Glaze Drops 45ml",
+          "description": "Hair shine drops for lustrous finish",
+          "originalPrice": 188.93,
+          "salePrice": 171.85,
+          "discount": "9% OFF",
+          "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod2", 
+          "name": "LOREAL Hair Treatment Mask",
+          "description": "Deep conditioning hair mask",
+          "originalPrice": 99.99,
+          "salePrice": 89.99,
+          "discount": "10% OFF",
+          "image": "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod3",
+          "name": "SCHWARZKOPF Bonacure Hair Oil",
+          "description": "Nourishing hair oil for all hair types",
+          "originalPrice": 159.99,
+          "salePrice": 139.99,
+          "discount": "12% OFF",
+          "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod4",
+          "name": "OLAPLEX Hair Perfector No.3",
+          "description": "Hair strengthening treatment",
+          "originalPrice": 89.99,
+          "salePrice": 72.99,
+          "discount": "19% OFF",
+          "image": "https://images.unsplash.com/photo-1605497788044-5a32c7078486?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod5",
+          "name": "MOROCCAN ARGAN Hair Serum",
+          "description": "Pure argan oil hair serum",
+          "originalPrice": 69.99,
+          "salePrice": 55.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod6",
+          "name": "TRESEMME Keratin Smooth Shampoo",
+          "description": "Smoothing keratin shampoo",
+          "originalPrice": 29.99,
+          "salePrice": 24.99,
+          "discount": "17% OFF",
+          "image": "https://images.unsplash.com/photo-1631730486887-d4c8a4298dc3?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod7",
+          "name": "PANTENE Pro-V Hair Mask",
+          "description": "Intensive repair hair mask",
+          "originalPrice": 39.99,
+          "salePrice": 31.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod8",
+          "name": "REDKEN Heat Protectant Spray",
+          "description": "Heat protection styling spray",
+          "originalPrice": 79.99,
+          "salePrice": 63.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1522338140262-f46f5913618a?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod9",
+          "name": "BABYLISS Hair Dryer Pro",
+          "description": "Professional ionic hair dryer",
+          "originalPrice": 149.99,
+          "salePrice": 119.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod10",
+          "name": "GHDI Platinum+ Hair Straightener",
+          "description": "Professional hair straightener",
+          "originalPrice": 299.99,
+          "salePrice": 239.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "type": "video",
+      "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&h=800&fit=crop&q=80",
+      "author": {
+        "id": "beauty_guru",
+        "username": "beautyguru",
+        "displayName": "Beauty Guru",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=100&h=100&fit=crop&q=80",
+        "verified": false
+      },
+      "category": "makeup",
+      "promotionalText": "Your makeup routine is minutes away",
+      "relatedProducts": [
+        {
+          "id": "prod11",
+          "name": "FENTY BEAUTY Foundation Set",
+          "description": "Complete foundation kit with brush",
+          "originalPrice": 129.99,
+          "salePrice": 99.99,
+          "discount": "23% OFF",
+          "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod12",
+          "name": "RARE BEAUTY Lipstick Collection",
+          "description": "Set of 3 bestselling lipsticks",
+          "originalPrice": 89.99,
+          "salePrice": 69.99,
+          "discount": "22% OFF",
+          "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod13",
+          "name": "CHARLOTTE TILBURY Eyeshadow Palette",
+          "description": "4-color eyeshadow palette",
+          "originalPrice": 149.99,
+          "salePrice": 119.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod14",
+          "name": "URBAN DECAY All Nighter Setting Spray",
+          "description": "Long-lasting makeup setting spray",
+          "originalPrice": 79.99,
+          "salePrice": 63.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1583241620806-9c44cebfa33f?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod15",
+          "name": "MAC Studio Fix Powder",
+          "description": "Full coverage powder foundation",
+          "originalPrice": 59.99,
+          "salePrice": 47.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod16",
+          "name": "BENEFIT Brow Wow Pencil",
+          "description": "Ultra-fine brow defining pencil",
+          "originalPrice": 49.99,
+          "salePrice": 39.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1596755389378-c31d21fd1273?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod17",
+          "name": "NARS Orgasm Blush",
+          "description": "Iconic peachy-pink blush",
+          "originalPrice": 69.99,
+          "salePrice": 55.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod18",
+          "name": "TOO FACED Better Than Sex Mascara",
+          "description": "Volumizing black mascara",
+          "originalPrice": 39.99,
+          "salePrice": 31.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1631214540242-e3b90eb6da65?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod19",
+          "name": "KYLIE COSMETICS Lip Kit",
+          "description": "Matte liquid lipstick and liner",
+          "originalPrice": 59.99,
+          "salePrice": 47.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod20",
+          "name": "MORPHE x JAMES CHARLES Palette",
+          "description": "39-shade artistic eyeshadow palette",
+          "originalPrice": 99.99,
+          "salePrice": 79.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1583354421302-b4bb3b05413e?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "type": "image",
+      "mediaUrl": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=400&h=800&fit=crop&q=80",
+      "author": {
+        "id": "style_maven",
+        "username": "stylemaven",
+        "displayName": "Style Maven",
+        "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b17c?w=100&h=100&fit=crop&q=80",
+        "verified": true
+      },
+      "category": "fashion",
+      "promotionalText": "Your style upgrade is minutes away",
+      "relatedProducts": [
+        {
+          "id": "prod21",
+          "name": "Premium Cotton T-Shirt",
+          "description": "Soft organic cotton basic tee",
+          "originalPrice": 49.99,
+          "salePrice": 39.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod22",
+          "name": "Designer Denim Jeans",
+          "description": "Premium stretch denim jeans",
+          "originalPrice": 159.99,
+          "salePrice": 119.99,
+          "discount": "25% OFF",
+          "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod23",
+          "name": "Leather Crossbody Bag",
+          "description": "Genuine leather mini crossbody",
+          "originalPrice": 299.99,
+          "salePrice": 249.99,
+          "discount": "17% OFF",
+          "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod24",
+          "name": "Silk Scarf Collection",
+          "description": "Luxury silk scarves set of 3",
+          "originalPrice": 199.99,
+          "salePrice": 159.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod25",
+          "name": "Cashmere Blend Sweater",
+          "description": "Cozy cashmere blend pullover",
+          "originalPrice": 299.99,
+          "salePrice": 239.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod26",
+          "name": "Classic Trench Coat",
+          "description": "Timeless double-breasted trench",
+          "originalPrice": 499.99,
+          "salePrice": 399.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1544966503-7e22ec0be1b1?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod27",
+          "name": "Statement Earrings Set",
+          "description": "Gold-plated statement earrings",
+          "originalPrice": 89.99,
+          "salePrice": 71.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod28",
+          "name": "Italian Leather Boots",
+          "description": "Handcrafted leather ankle boots",
+          "originalPrice": 399.99,
+          "salePrice": 319.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod29",
+          "name": "Designer Sunglasses",
+          "description": "UV protection designer frames",
+          "originalPrice": 249.99,
+          "salePrice": 199.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod30",
+          "name": "Minimalist Watch",
+          "description": "Swiss movement minimalist watch",
+          "originalPrice": 199.99,
+          "salePrice": 159.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "type": "video",
+      "mediaUrl": "https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_1mb.mp4",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=800&fit=crop&q=80",
+      "author": {
+        "id": "fit_lifestyle",
+        "username": "fitlifestyle",
+        "displayName": "Fit Lifestyle",
+        "avatar": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=100&h=100&fit=crop&q=80",
+        "verified": true
+      },
+      "category": "fitness",
+      "promotionalText": "Your fitness journey is minutes away",
+      "relatedProducts": [
+        {
+          "id": "prod31",
+          "name": "Yoga Mat Premium",
+          "description": "Non-slip yoga mat with carry strap",
+          "originalPrice": 79.99,
+          "salePrice": 59.99,
+          "discount": "25% OFF",
+          "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod32",
+          "name": "Resistance Bands Set",
+          "description": "Complete workout bands set",
+          "originalPrice": 39.99,
+          "salePrice": 29.99,
+          "discount": "25% OFF",
+          "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod33",
+          "name": "Adjustable Dumbbells",
+          "description": "Space-saving adjustable weights",
+          "originalPrice": 299.99,
+          "salePrice": 239.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod34",
+          "name": "Foam Roller Pro",
+          "description": "High-density muscle recovery roller",
+          "originalPrice": 59.99,
+          "salePrice": 47.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1506629905607-45904f8d9e14?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod35",
+          "name": "Protein Shaker Bottle",
+          "description": "Leak-proof protein shaker 28oz",
+          "originalPrice": 19.99,
+          "salePrice": 15.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1608901013549-3b23aa2486e9?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod36",
+          "name": "Wireless Fitness Tracker",
+          "description": "Heart rate & step tracking watch",
+          "originalPrice": 149.99,
+          "salePrice": 119.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod37",
+          "name": "Workout Gloves Pro",
+          "description": "Padded grip workout gloves",
+          "originalPrice": 29.99,
+          "salePrice": 23.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod38",
+          "name": "Exercise Ball 65cm",
+          "description": "Anti-burst stability ball",
+          "originalPrice": 49.99,
+          "salePrice": 39.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1506629905607-45904f8d9e14?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod39",
+          "name": "Jump Rope Speed",
+          "description": "Adjustable speed jump rope",
+          "originalPrice": 24.99,
+          "salePrice": 19.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod40",
+          "name": "Recovery Massage Gun",
+          "description": "Percussive therapy massage device",
+          "originalPrice": 199.99,
+          "salePrice": 159.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "type": "image",
+      "mediaUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400&h=800&fit=crop&q=80",
+      "author": {
+        "id": "home_vibes",
+        "username": "homevibes",
+        "displayName": "Home Vibes",
+        "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&q=80",
+        "verified": false
+      },
+      "category": "home",
+      "promotionalText": "Your dream home is minutes away",
+      "relatedProducts": [
+        {
+          "id": "prod41",
+          "name": "Minimalist Table Lamp",
+          "description": "Modern LED desk lamp",
+          "originalPrice": 89.99,
+          "salePrice": 69.99,
+          "discount": "22% OFF",
+          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod42",
+          "name": "Decorative Plant Pot Set",
+          "description": "Set of 3 ceramic plant pots",
+          "originalPrice": 59.99,
+          "salePrice": 44.99,
+          "discount": "25% OFF",
+          "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod43",
+          "name": "Scandinavian Throw Pillow",
+          "description": "Nordic style decorative cushion",
+          "originalPrice": 39.99,
+          "salePrice": 31.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod44",
+          "name": "Bamboo Storage Baskets",
+          "description": "Eco-friendly storage basket set",
+          "originalPrice": 79.99,
+          "salePrice": 63.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod45",
+          "name": "Macrame Wall hanging",
+          "description": "Handwoven macrame art piece",
+          "originalPrice": 69.99,
+          "salePrice": 55.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod46",
+          "name": "Essential Oil Diffuser",
+          "description": "Ultrasonic aromatherapy diffuser",
+          "originalPrice": 49.99,
+          "salePrice": 39.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1610557892470-55d9e80c0bce?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod47",
+          "name": "Geometric Wall Mirror",
+          "description": "Modern hexagonal wall mirror",
+          "originalPrice": 119.99,
+          "salePrice": 95.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod48",
+          "name": "Wooden Picture Frames",
+          "description": "Set of 5 natural wood frames",
+          "originalPrice": 89.99,
+          "salePrice": 71.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod49",
+          "name": "Smart LED Strip Lights",
+          "description": "Color-changing smart lighting",
+          "originalPrice": 79.99,
+          "salePrice": 63.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod50",
+          "name": "Cozy Throw Blanket",
+          "description": "Ultra-soft fleece throw blanket",
+          "originalPrice": 59.99,
+          "salePrice": 47.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "type": "video",
+      "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=400&h=800&fit=crop&q=80",
+      "author": {
+        "id": "foodie_chef",
+        "username": "foodiechef",
+        "displayName": "Foodie Chef",
+        "avatar": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=100&h=100&fit=crop&q=80",
+        "verified": true
+      },
+      "category": "food",
+      "promotionalText": "Your gourmet meal is minutes away",
+      "relatedProducts": [
+        {
+          "id": "prod51",
+          "name": "Professional Chef Knife",
+          "description": "High-carbon stainless steel knife",
+          "originalPrice": 199.99,
+          "salePrice": 149.99,
+          "discount": "25% OFF",
+          "image": "https://images.unsplash.com/photo-1594736797933-d0051ba6ca58?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod52",
+          "name": "Non-stick Pan Set",
+          "description": "3-piece ceramic non-stick pans",
+          "originalPrice": 149.99,
+          "salePrice": 119.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod53",
+          "name": "Cast Iron Dutch Oven",
+          "description": "6-quart enameled cast iron pot",
+          "originalPrice": 249.99,
+          "salePrice": 199.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1556909114-fd7f8b8b8f94?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod54",
+          "name": "Bamboo Cutting Board Set",
+          "description": "3-piece bamboo cutting boards",
+          "originalPrice": 79.99,
+          "salePrice": 63.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1556909114-fd7f8b8b8f94?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod55",
+          "name": "Stainless Steel Mixing Bowls",
+          "description": "Nesting bowl set of 5",
+          "originalPrice": 59.99,
+          "salePrice": 47.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1556909114-0bb3b8c7b4c8?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod56",
+          "name": "Digital Kitchen Scale",
+          "description": "Precision cooking scale 11lb",
+          "originalPrice": 39.99,
+          "salePrice": 31.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1556909114-0bb3b8c7b4c8?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod57",
+          "name": "Silicone Cooking Utensils",
+          "description": "Heat-resistant utensil set",
+          "originalPrice": 49.99,
+          "salePrice": 39.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1556909114-0bb3b8c7b4c8?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod58",
+          "name": "Instant-Read Thermometer",
+          "description": "Digital meat thermometer",
+          "originalPrice": 29.99,
+          "salePrice": 23.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1556909114-0bb3b8c7b4c8?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod59",
+          "name": "Glass Food Storage Set",
+          "description": "10-piece glass container set",
+          "originalPrice": 89.99,
+          "salePrice": 71.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1556909114-0bb3b8c7b4c8?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        },
+        {
+          "id": "prod60",
+          "name": "Stand Mixer Pro",
+          "description": "6-quart professional stand mixer",
+          "originalPrice": 399.99,
+          "salePrice": 319.99,
+          "discount": "20% OFF",
+          "image": "https://images.unsplash.com/photo-1556909114-0bb3b8c7b4c8?w=200&h=200&fit=crop&q=80",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}
